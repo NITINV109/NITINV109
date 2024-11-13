@@ -1,2 +1,2 @@
 This is my first file.
-Thus is a description.
+This is a description.
